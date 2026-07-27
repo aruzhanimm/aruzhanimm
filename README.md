@@ -11,19 +11,6 @@ I am a Software Engineering student at Astana IT University with hands-on experi
 - Docker, GitHub Actions, testing and clean project structure
 - Applied ML research with Python and PyTorch
 
-## Selected projects
-
-### [Prediction Market Protocol](https://github.com/aruzhanimm/prediction-market-protocol-)
-Full-stack Ethereum L2 prediction-market protocol with AMM pricing, ERC-1155 outcome tokens, DAO governance, Chainlink resolution, automated tests, CI, deployment scripts, and architecture documentation.
-
-### [HER2 IHC Research](https://github.com/aruzhanimm/IHC-research)
-PyTorch pipeline for HER2 immunohistochemistry image classification, including ResNet50 training, evaluation, and checks for duplicate, filename, and slide-level data leakage.
-
-### [Retention Architect — ML Hackathon](https://github.com/aruzhanimm/Higgsfield_ML_hackathon)
-Three-class churn prediction pipeline with out-of-time-safe feature engineering, leak-free target encoding, gradient boosting models, and documented business recommendations.
-
-### [EduSphere LMS](https://github.com/aruzhanimm/LMS_dev)
-Full-stack learning management system with Node.js, Express, MongoDB, CRUD operations, filtering, search, authentication, and cloud deployment.
 
 ## Experience highlights
 
