@@ -1,30 +1,35 @@
-# Hi, I'm Aruzhan Kartam
+# Aruzhan Kartam
 
-**Junior Backend Engineer based in Astana, Kazakhstan**
+Software Engineering undergraduate interested in machine learning research and reliable software systems.
 
-I am a Software Engineering student at Astana IT University with hands-on experience in backend development, machine learning research, and team-based product development. My current focus is building reliable backend systems with **Java, Spring Boot, PostgreSQL, REST APIs, Docker, and Git**.
+I am preparing for research-oriented graduate study in AI and machine learning. My interests include reproducible experimentation, information retrieval, and recommender systems. My backend engineering experience also shapes my interest in building dependable tools around ML workflows.
 
-## Current focus
+## Education
 
-- Java Core, Spring Boot, Spring Data JPA, REST API design
-- PostgreSQL, SQL, database modeling and query optimization
-- Docker, GitHub Actions, testing and clean project structure
-- Applied ML research with Python and PyTorch
+Software Engineering undergraduate, Astana IT University.
 
+## Research interests
 
-## Experience highlights
+- Reproducible ML experiments, evaluation, and data leakage prevention
+- Information retrieval and recommender systems
+- Learning from tabular and behavioral data
+- Computer vision in applied team projects
 
-- Backend and software development internships in Astana
-- Medical AI research at Astana IT University
-- Hackathon experience in NLP and applied machine learning
-- Collaboration in international and cross-functional teams
+## Selected repositories
 
-## Technologies
+| Repository | Focus |
+| --- | --- |
+| [Higgsfield_ML_hackathon](https://github.com/aruzhanimm/Higgsfield_ML_hackathon) | Hackathon churn prediction notebook with feature engineering, LightGBM/XGBoost models, and cross-validation. |
+| [industryhack_tozim](https://github.com/aruzhanimm/industryhack_tozim) | Team hackathon prototype for industrial vehicle safety, with computer vision, driver monitoring, and a FastAPI/React dashboard. |
+| [OOPProgect](https://github.com/aruzhanimm/OOPProgect) | Java backend prototype with Spring Boot REST endpoints and PostgreSQL access for users and posts. |
 
-`Java` `Spring Boot` `Python` `PostgreSQL` `SQL` `REST API` `Docker` `Git` `PyTorch` `JavaScript`
+## Technical stack
+
+Tools used in the repositories above:
+
+- **ML and data:** Python, scikit-learn, pandas, NumPy, LightGBM, XGBoost, Jupyter
+- **Backend:** Java, Spring Boot, PostgreSQL, JDBC, Maven, REST APIs
 
 ## Contact
 
-- [LinkedIn](https://www.linkedin.com/in/aruzhan-kartam-163a0b34b/)
-- [GitHub](https://github.com/aruzhanimm)
-- Email: aruzhanimka0@gmail.com
+[LinkedIn](https://www.linkedin.com/in/aruzhan-kartam-163a0b34b/) · [GitHub](https://github.com/aruzhanimm)
